@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="41553" started-at="2021-06-21T15:25:26 IST" finished-at="2021-06-21T15:26:08 IST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="41553" started-at="2021-06-21T15:25:26 IST" finished-at="2021-06-21T15:26:08 IST">
+      <class name="com.AutomationTest.demoProject1.TestCase1">
+        <test-method status="PASS" signature="launchDriver()[pri:0, instance:com.AutomationTest.demoProject1.TestCase1@3708b3]" name="launchDriver" is-config="true" duration-ms="2107" started-at="2021-06-21T15:25:26 IST" finished-at="2021-06-21T15:25:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDriver -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.AutomationTest.demoProject1.TestCase1@3708b3]" name="test1" duration-ms="3835" started-at="2021-06-21T15:25:28 IST" finished-at="2021-06-21T15:25:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.AutomationTest.demoProject1.TestCase1@3708b3]" name="quit" is-config="true" duration-ms="645" started-at="2021-06-21T15:25:32 IST" finished-at="2021-06-21T15:25:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="launchDriver()[pri:0, instance:com.AutomationTest.demoProject1.TestCase1@3708b3]" name="launchDriver" is-config="true" duration-ms="1355" started-at="2021-06-21T15:25:33 IST" finished-at="2021-06-21T15:25:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDriver -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:com.AutomationTest.demoProject1.TestCase1@3708b3]" name="test2" duration-ms="9082" started-at="2021-06-21T15:25:34 IST" finished-at="2021-06-21T15:25:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.AutomationTest.demoProject1.TestCase1@3708b3]" name="quit" is-config="true" duration-ms="612" started-at="2021-06-21T15:25:43 IST" finished-at="2021-06-21T15:25:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="launchDriver()[pri:0, instance:com.AutomationTest.demoProject1.TestCase1@3708b3]" name="launchDriver" is-config="true" duration-ms="1323" started-at="2021-06-21T15:25:44 IST" finished-at="2021-06-21T15:25:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDriver -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:com.AutomationTest.demoProject1.TestCase1@3708b3]" name="test3" duration-ms="21935" started-at="2021-06-21T15:25:45 IST" finished-at="2021-06-21T15:26:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.AutomationTest.demoProject1.TestCase1@3708b3]" name="quit" is-config="true" duration-ms="609" started-at="2021-06-21T15:26:07 IST" finished-at="2021-06-21T15:26:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.AutomationTest.demoProject1.TestCase1 -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
