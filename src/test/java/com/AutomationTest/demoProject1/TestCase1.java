@@ -45,7 +45,15 @@ public class TestCase1 {
 		driver.navigate().to("http://amazon.com/");
 		System.out.println("TEST CASE : 3 " + driver.getTitle());
 	}
-
+   
+	@Test
+	//test4
+	
+	public void test4() {
+		
+		
+		System.out.println("TEST CASE : 4 " + driver.getTitle());
+	}
 	@AfterMethod
 	public void quit() {
 		driver.quit();
